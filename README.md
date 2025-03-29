@@ -4,6 +4,7 @@ Project Description
 ApplePrism is a comprehensive GUI-based Python application tailored for multispectral image processing and analysis. It automates the detection and loading of essential spectral channels—Green, RedEdge, NIR, and an RGB preview—from a selected folder. The application offers a dedicated manual alignment interface where users can fine-tune the relative positioning of the RedEdge and NIR channels (using intuitive arrow key controls) with respect to the Green channel. Once aligned, ApplePrism computes the ARI (a spectral index) and provides an interactive tool to select a region of interest (ROI) for calculating the average ARI value. This makes it an ideal tool for applications in precision agriculture, remote sensing, and environmental monitoring.
 
 Key Features
+
 ✅ Multispectral Data Handling – Automatically identifies and loads required image channels (Green, RedEdge, NIR, and RGB) from a chosen folder.
 
 ✅ Interactive Manual Alignment – Enables precise adjustment of the RedEdge and NIR channels using keyboard controls (arrow keys with SHIFT modifier for NIR), with a real-time preview.
